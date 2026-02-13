@@ -1,2 +1,2 @@
-# FLExo_BLAST
+# FLExo-BLAST
 Flexible Locator for Exotoxins (BLAST-based methods)
